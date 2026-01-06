@@ -44,7 +44,7 @@ In this project, survey data was analyzed using **Data Science techniques** to u
 
 ##  Author
 **Yash Sharma**  
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-8a04b82b8)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)  
 🔗 [GitHub](https://github.com/hsaysh)  
 
 ---
