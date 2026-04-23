@@ -89,12 +89,12 @@ This project demonstrates how data analytics can be used to extract meaningful i
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Yash Sharma**  
-📧 yash.sharma946231@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/yash-sharma-8a04b82b8  
-🔗 GitHub: https://github.com/hsaysh  
+**Yash Sharma**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-sharma-5527ab398)
+🔗 [GitHub](https://github.com/hsaysh)
 
 ---
 
