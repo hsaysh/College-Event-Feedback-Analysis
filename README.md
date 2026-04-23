@@ -71,8 +71,8 @@ The data was cleaned and prepared before performing analysis.
 
 ## 📷 Project Preview
 
-![Project Screenshot](your_image.png)
-
+![Feedback Distribution](feedback_distribution.png)
+![Feature Analysis](feature_analysis.png)
 ---
 
 ## 💡 Future Improvements
